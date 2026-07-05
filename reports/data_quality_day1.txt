@@ -1,0 +1,23 @@
+DATA QUALITY SUMMARY - Day 1
+Bluestock Fintech | MF Analytics Capstone
+=======================================================
+
+FILE PROFILES:
+----------------------------------------
+  01_fund_master.csv: 40r x 15c | dupes=0 | nulls=0 | Clean
+  02_nav_history.csv: 46000r x 3c | dupes=0 | nulls=0 | Clean
+  03_aum_by_fund_house.csv: 90r x 5c | dupes=0 | nulls=0 | Clean
+  04_monthly_sip_inflows.csv: 48r x 6c | dupes=0 | nulls=12 | Issues found
+  05_category_inflows.csv: 144r x 3c | dupes=0 | nulls=0 | Clean
+  06_industry_folio_count.csv: 21r x 6c | dupes=0 | nulls=0 | Clean
+  07_scheme_performance.csv: 40r x 19c | dupes=0 | nulls=0 | Clean
+  08_investor_transactions.csv: 32778r x 13c | dupes=0 | nulls=0 | Clean
+  09_portfolio_holdings.csv: 322r x 8c | dupes=0 | nulls=0 | Clean
+  10_benchmark_indices.csv: 8050r x 3c | dupes=0 | nulls=0 | Clean
+
+AMFI CODE VALIDATION:
+----------------------------------------
+  schemes_in_fund_master: 40
+  schemes_in_nav_history: 40
+  missing_from_nav_history: 0
+  missing_codes: []
