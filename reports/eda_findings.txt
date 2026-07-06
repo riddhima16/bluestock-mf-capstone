@@ -1,0 +1,32 @@
+EDA KEY FINDINGS — Day 3
+=================================================================
+
+Finding 1: SIP Growth
+→ Monthly SIP inflows grew 169% from Jan 2022 to Dec 2025, reaching an all-time high of ₹31,002 Cr. [Chart: 03a]
+
+Finding 2: SBI Dominance
+→ SBI MF commands the largest AUM at ₹12.5L Cr (Dec 2025), growing 2x from ₹6.05L Cr in 2022. [Chart: 02]
+
+Finding 3: Top Performer
+→ 'SBI Small Cap Fund - Regular Plan - Growth' delivered the highest 3yr CAGR of 23.4%, beating benchmark by 1.23%. [Chart: 01a]
+
+Finding 4: Folio Doubling
+→ Total MF folios doubled from 13.26 Cr (Jan 2022) to 26.12 Cr (Dec 2025), reflecting mass retail adoption. [Chart: 07]
+
+Finding 5: Equity Dominance
+→ Equity funds absorb the majority of category inflows, with Small Cap and Mid Cap seeing the sharpest increases in FY25. [Chart: 04]
+
+Finding 6: B30 Rising
+→ B30 cities (beyond top 30) account for 34.1% of total investment, growing faster than T30 metros. [Chart: 06b]
+
+Finding 7: Senior SIPs
+→ Investors aged 56+ have the highest avg SIP amount (₹105,613), 5.7% more than 18-25 cohort (₹108,145). [Chart: 05b]
+
+Finding 8: Expense Ratio
+→ 14 of 40 schemes have expense ratio < 1%, all Direct plans — offering meaningful cost advantage over Regular plans. [Chart: 05a]
+
+Finding 9: High Correlation
+→ Large Cap funds show >0.85 correlation with each other, suggesting diversification within large cap category is limited. [Chart: 08]
+
+Finding 10: Sector Concentration
+→ Banking & Financial Services is the largest equity holding sector, reflecting Nifty 50 composition bias across most large cap funds. [Chart: 09]
